@@ -8,7 +8,8 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    -
+    Because changes in the local repository might not be ready for production.
+    The developer get to decide when it is ready for prime time.
 
 (3)
 Describe the differences between forks, clones, and branches.  When would you
