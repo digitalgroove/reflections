@@ -15,7 +15,9 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    -
+    Fork is used when you don't have permission to change someone else's repository.
+    It makes a copy on your account. Cloning is making a copy of someone else's
+    repository on a local machine. Branching is making a copy of previous commits.
 
 (4)
 What is the benefit of having a copy of the last known state of the remote
