@@ -30,7 +30,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    -
+    Without Git or GitHub everybody would work on totally different parts of the
+    software. It would be more difficult to collaborate on the same file.
 
 (6)
 When would you want to make changes in a separate branch rather than directly in
